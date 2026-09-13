@@ -4,7 +4,7 @@ Run a crew of coding agents from one place.
 
 You talk to one agent, the first mate. It spawns worker agents into their own terminal windows and clean git worktrees, watches them while they work, and hands back finished pull requests or investigation reports. You stay the captain. You never babysit five terminals at once.
 
-forge is my setup on top of [firstmate](https://github.com/kunchenguid/firstmate) by the legendary [@kunchen] (https://github.com/kunchenguid) : the same orchestration core, plus the roles, workflows, model routing, and guidelines I use day to day. If you already run firstmate, forge is a way to pick up a working config instead of building one from scratch.
+forge is my setup on top of [firstmate](https://github.com/kunchenguid/firstmate) by the legendary [@kunchen](https://github.com/kunchenguid) : the same orchestration core, plus the roles, workflows, model routing, and guidelines I use day to day. If you already run firstmate, forge is a way to pick up a working config instead of building one from scratch.
 
 ## What it's good for
 
