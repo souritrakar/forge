@@ -4,6 +4,14 @@ Run a crew of coding agents from one place.
 
 You talk to one agent, the first mate. It spawns worker agents into their own terminal windows and clean git worktrees, watches them while they work, and hands back finished pull requests or investigation reports. You stay the captain. You never babysit five terminals at once.
 
+**FORGE = Frame → Orient → Route → Generate → Evaluate.
+**
+**Frame** -clarify the goal, requirements, constraints.
+**Orient** - gather codebase context/research.
+**Route** -  plan, decompose, choose agents/models/dependencies.
+**Generate** - execute the work, usually in parallel.
+**Evaluate** - validate, refine, review, test, and ship.
+
 forge is my setup on top of [firstmate](https://github.com/kunchenguid/firstmate) by the legendary [@kunchen](https://github.com/kunchenguid) : the same orchestration core, plus the roles, workflows, model routing, and guidelines I use day to day. If you already run firstmate, forge is a way to pick up a working config instead of building one from scratch.
 
 ## What it's good for
