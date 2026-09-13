@@ -4,8 +4,7 @@ Run a crew of coding agents from one place.
 
 You talk to one agent, the first mate. It spawns worker agents into their own terminal windows and clean git worktrees, watches them while they work, and hands back finished pull requests or investigation reports. You stay the captain. You never babysit five terminals at once.
 
-**FORGE = Frame → Orient → Route → Generate → Evaluate.
-**
+**FORGE = Frame → Orient → Route → Generate → Evaluate.**
 **Frame** -clarify the goal, requirements, constraints.
 **Orient** - gather codebase context/research.
 **Route** -  plan, decompose, choose agents/models/dependencies.
